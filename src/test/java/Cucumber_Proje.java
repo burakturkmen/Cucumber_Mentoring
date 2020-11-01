@@ -37,7 +37,7 @@ public class Cucumber_Proje {
               3.11) Create a Budget > Setup > Budget Groups , edit the Budget Groups , delete the Budget Groups
               3.12) Create a Budget > Setup > Cost Centers , edit the Cost Centers  , delete the Cost Centers
 
-     4) Herkes Features'ı bitirdiğinde Github'a push yapın. Eğer bir sorun varsa sorunu çözün.
+     4) Herkes Features'ı bitirdiğinde Github'a push yapın. Eğer bir sorun varsa sorunu çözün. asdasd
 
 
 
